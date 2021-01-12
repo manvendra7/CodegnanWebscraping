@@ -1,0 +1,2 @@
+# CodegnanWebscraping
+Webscraping class
